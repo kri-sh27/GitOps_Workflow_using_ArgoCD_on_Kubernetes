@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: zomato-app
-        image: krishnahogale/zomatoapp:latest
+        image: krishnahogale/zomato-react-app:latest
         ports:
         - containerPort: 80
